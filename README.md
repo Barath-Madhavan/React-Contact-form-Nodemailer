@@ -14,7 +14,7 @@ The project implements a react-express application that enables a user to send f
 ####  Desktop Preview
 
 ![Screenshot (677)](https://user-images.githubusercontent.com/93980048/227158412-baa2fdcd-7a66-47e4-8cb8-94774144f9a4.png)
-<br>
+
 
 ##### Prerequisities
 
