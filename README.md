@@ -16,7 +16,7 @@ The project implements a react-express application that enables a user to send f
 ![Screenshot (677)](https://user-images.githubusercontent.com/93980048/227158412-baa2fdcd-7a66-47e4-8cb8-94774144f9a4.png)
 
 
-##### Prerequisities
+##### <h2>Prerequisities</h2>
 
  Here in our app the sender's account and receiver's email id's are different . You need to configure your sender's  email account by generating app passwords from google account settings "App passwords".
  
